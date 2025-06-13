@@ -42,7 +42,7 @@ This project implements a text-to-image generator using the Stable Diffusion v1.
 
 ### For Google Colab (Recommended)
 1. Open the notebook in Google Colab:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sreya-rajesh/PRODIGY_GenAI_02/blob/main/ImageGenerator.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sreya-rajesh/PRODIGY_GenAI_02/blob/main/ImageGenerator(1).ipynb)
 
 2. Enable GPU acceleration:
    - Runtime → Change runtime type → Hardware accelerator → GPU
@@ -52,7 +52,7 @@ This project implements a text-to-image generator using the Stable Diffusion v1.
 ### For Local Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/text-to-image-generator.git
+   git clone https://github.com/sreya-rajesh/text-to-image-generator.git
    cd text-to-image-generator
    ```
 
